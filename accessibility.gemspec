@@ -10,9 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jaimeiniesta@gmail.com"]
 
   spec.summary       = %q{Ruby client for the access-lint-server JSON API.}
-  spec.description   = %q{Ruby client to check for accessibility issues using
-                          Chrome's Accessibility Developer Tools on an
-                          access-lint-server instance.}
+  spec.description   = %q{Ruby client to check for accessibility issues using Chrome's Accessibility Developer Tools on an access-lint-server instance.}
   spec.homepage      = "https://github.com/sitevalidator/accessibility"
   spec.license       = "MIT"
 
